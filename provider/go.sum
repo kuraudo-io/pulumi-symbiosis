@@ -1729,12 +1729,16 @@ github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
 github.com/symbiosis-cloud/symbiosis-go v1.0.8 h1:ZHP7LNMGb/t6+Cb0xwXxnVpkzBxjDluu2rtsaFf4w5Q=
 github.com/symbiosis-cloud/symbiosis-go v1.0.8/go.mod h1:lhSbsfDioup2qFsrvUemxiUJLuP2hAE3q4umblBzWOo=
+github.com/symbiosis-cloud/symbiosis-go v1.0.12 h1:3SZwA4wkg9peSihzerzFEee1bB4r7yRwsnCLxlMdU/M=
+github.com/symbiosis-cloud/symbiosis-go v1.0.12/go.mod h1:NKZUsxo8/H1SnAxKo+RC/SHmUuaQILkdNAXN7LthjQ4=
 github.com/symbiosis-cloud/symbiosis-go v1.1.6 h1:jlVcpfy1PF+OOo2kTm7pyc8RPPb6cH/fXhyrhz7dn1s=
 github.com/symbiosis-cloud/symbiosis-go v1.1.6/go.mod h1:NKZUsxo8/H1SnAxKo+RC/SHmUuaQILkdNAXN7LthjQ4=
 github.com/symbiosis-cloud/terraform-provider-symbiosis v0.4.1 h1:5Kwxqdy4YjDp2taTC2RabWx7vwIuLCM272FtMp/sI2s=
 github.com/symbiosis-cloud/terraform-provider-symbiosis v0.4.1/go.mod h1:FB53sVPJd6FqZw1Yyp/JAFuvlCE8AJYyj6bn1WT/1Us=
 github.com/symbiosis-cloud/terraform-provider-symbiosis v0.5.0 h1:ZJNmd3opy6qBUZ+priW/Ncqyv6L7O7i2zY1luU1cDF8=
 github.com/symbiosis-cloud/terraform-provider-symbiosis v0.5.0/go.mod h1:wziprpoHyvLpKytW82a72vkoZJBkOeQZ1DbY2C+gmB0=
+github.com/symbiosis-cloud/terraform-provider-symbiosis v0.5.2 h1:qH3ZG7rGjV/Y4xI1Lhlxqj6XjfPS+MgXGJzp2LM6Gt0=
+github.com/symbiosis-cloud/terraform-provider-symbiosis v0.5.2/go.mod h1:vVF4yBsUG5OUlfRvZpvmTLgZZFybaBqNgwelV4HsCPs=
 github.com/syndtr/gocapability v0.0.0-20170704070218-db04d3cc01c8/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
 github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
 github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
